@@ -1,4 +1,5 @@
 # caesar-cipher
+![https://media.giphy.com/media/Ro2MgOxH9iaVG/giphy.gif](https://media.giphy.com/media/Ro2MgOxH9iaVG/giphy.gif)
 
 Create a function that encodes text with a caesar cipher.
 
